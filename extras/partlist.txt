@@ -1,0 +1,32 @@
+Partlist
+
+Exported from FiveLEDs.sch at 1/6/21 11:22 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device                Package                Library  Sheet
+
+B1       3V             BATTERY-2AANOHOLES    KEYSTONE-2462-NO-HOLES _jc      1
+C1       10uF           C-USM0805             M0805                  _jc      1
+C2       100nF          C-USM0805             M0805                  _jc      1
+D0       5mm            LED5MM                LED5MM                 _jc      1
+D1       5mm            LED5MM                LED5MM                 _jc      1
+D2       5mm            LED5MM                LED5MM                 _jc      1
+D3       5mm            LED5MM                LED5MM                 _jc      1
+D4       5mm            LED5MM                LED5MM                 _jc      1
+JP1      ICSP           AVR_SPI_PRG_62X3_LOCK 2X3_LOCK               _jc      1
+R0       220            R-US_M0805            M0805                  _jc      1
+R1       220            R-US_M0805            M0805                  _jc      1
+R2       220            R-US_M0805            M0805                  _jc      1
+R3       220            R-US_M0805            M0805                  _jc      1
+R4       220            R-US_M0805            M0805                  _jc      1
+R5       10K            R-US_M0805            M0805                  _jc      1
+S0       S0             10-XXOCT              B3F-10XXOCT            _jc      1
+S1       S1             10-XXOCT              B3F-10XXOCT            _jc      1
+S2       S2             10-XXOCT              B3F-10XXOCT            _jc      1
+S3       S3             10-XXOCT              B3F-10XXOCT            _jc      1
+S4       S4             10-XXOCT              B3F-10XXOCT            _jc      1
+S5       RESET          10-XXOCT              B3F-10XXOCT            _jc      1
+U1       ATtiny84A      ATTINYX4SO14          SO14                   _jc      1

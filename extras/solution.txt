@@ -1,0 +1,11 @@
+Solution to the Five LEDs Puzzle
+
+To avoid unintended spoilers, the solution is enciphered
+with ROT-13. Decipher it at https://rot13.com/
+
+1. Gur mreb ohggba jvyy nyjnlf ghea gur mreb YRQ ba be bss.
+
+2. Gur bgure ohggbaf jvyy bayl ghea gurve qrfvtangrq YRQ ba
+   be bss vs obgu bs gur sbyybjvat pbaqvgvbaf ner gehr:
+     (N) Gur YRQ vzzrqvngryl gb gur evtug vf ba, naq
+     (O) Nyy bgure YRQf gb gur evtug ner bss.

@@ -1,0 +1,14 @@
+Five LEDs Puzzle,,,,,
+Bill of materials,,,,,
+https://github.com/JChristensen/FiveLEDs  ,,,,,
+https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=cfd9324946,,,,,
+,,,,,
+Part nbr,Qty,Description,Mouser part nbr,Mfr part nbr,Manufacturer
+B1,1,"Cylindrical Battery Contacts, Clips, Holders & Springs 2 CELL AA PC HOLDER",534-2462,2462,Keystone Electronics
+C1,1,Multilayer Ceramic Capacitors MLCC - SMD/SMT 10uF+/-10% 10V X5R 2012,187-CL21A106KPFNNNG,CL21A106KPFNNNG,Samsung Electro-Mechanics
+C2,1,Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V .1uF X7R 0805 10%TOL,581-08055C104K,08055C104KAT2A,AVX
+D0-D4,5,Standard LEDs - Through Hole RED DIFFUSED,604-WP7113SRD/E,WP7113SRD/E,Kingbright
+R0-R4,5,Thick Film Resistors - SMD SMD 1/4 watts 220ohms 1%,660-RK73H2ATTD2200F,RK73H2ATTD2200F,KOA Speer
+R5,1,Thick Film Resistors - SMD 1/4W 10K OHM 1%,660-RK73H2ATTDD1002F,RK73H2ATTDD1002F,KOA Speer
+S0-S5,6,Tactile Switches 6X6 Flat 5mm Btn Force 150g w/out Grd,653-B3F-1022,B3F-1022,Omron
+U1,1,8-bit Microcontrollers - MCU 20MHz Ind. Grade,556-ATTINY84A-SSU,ATTINY84A-SSU,Microchip
